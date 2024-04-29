@@ -17,3 +17,7 @@ The converter supports the following options:
 * Binary to Hexadecimal
 * Octal to Hexadecimal
 * Hexadecimal to Octal
+
+### Technologies
+
+![Code::Blocks Badge](https://img.shields.io/badge/Code%3A%3ABlocks-41AD48?logo=codeblocks&logoColor=fff&style=for-the-badge) ![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
